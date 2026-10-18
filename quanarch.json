@@ -1,0 +1,24 @@
+{
+    "version": "0.2.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/quanarch/quanarch/releases/download/v0.2.2/quanarch_0.2.2_windows_amd64.zip",
+            "bin": [
+                "qu.exe",
+                "quanarch.exe"
+            ],
+            "hash": "0ad47e3d5dd8d74b075b97b20153f21803246641be53394cb377cea7e109d693"
+        },
+        "arm64": {
+            "url": "https://github.com/quanarch/quanarch/releases/download/v0.2.2/quanarch_0.2.2_windows_arm64.zip",
+            "bin": [
+                "qu.exe",
+                "quanarch.exe"
+            ],
+            "hash": "3922d722515c2564189823eac215eaac569abe4b2e5eaa551a97effe65ec51e8"
+        }
+    },
+    "homepage": "https://quanarch.org",
+    "license": "Apache-2.0",
+    "description": "Create Quanarch projects, quanars, quans, quas and qmocks."
+}
