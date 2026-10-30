@@ -1,21 +1,21 @@
 {
-    "version": "0.3.7",
+    "version": "0.3.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/quanarch/quanarch/releases/download/v0.3.7/quanarch_0.3.7_windows_amd64.zip",
-            "bin": [
-                "quanarch.exe",
-                "qu.exe"
-            ],
-            "hash": "cc6a18a516e6121e0a96ae5905c1530bcc429d4431b318735622fe1db7c89285"
-        },
-        "arm64": {
-            "url": "https://github.com/quanarch/quanarch/releases/download/v0.3.7/quanarch_0.3.7_windows_arm64.zip",
+            "url": "https://github.com/quanarch/quanarch/releases/download/v0.3.8/quanarch_0.3.8_windows_amd64.zip",
             "bin": [
                 "qu.exe",
                 "quanarch.exe"
             ],
-            "hash": "0a2dceb69b4ca5a69125258824469f43122522324b174808dfcd099532c92be8"
+            "hash": "a598b04c52f90fe5235baa98476e3ae908d16df78a9bd271b443fff07970872c"
+        },
+        "arm64": {
+            "url": "https://github.com/quanarch/quanarch/releases/download/v0.3.8/quanarch_0.3.8_windows_arm64.zip",
+            "bin": [
+                "quanarch.exe",
+                "qu.exe"
+            ],
+            "hash": "d7c30d0f67b3a403aecd576283ce425536cd39b46242b3ade449ec9f260353a1"
         }
     },
     "homepage": "https://quanarch.org",
